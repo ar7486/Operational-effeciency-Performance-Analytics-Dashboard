@@ -1,0 +1,2 @@
+# Operational-effeciency-Performance-Analytics-Dashboard
+Streamlit dashboard for operational efficiency analytics: upload CSV/XLSX or use built-in demo data to explore transactions, efficiency, response times, defects and revenue. Provides sidebar filters, trend charts, localized group stats, anomaly detection, data preview and CSV export. Dockerfile and deployment-ready. Ready for Streamlit Cloud deploy
